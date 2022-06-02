@@ -20,3 +20,9 @@ for runnig the application you need to complete application.properties with your
 ### Send coins to any BTC address with send coin API:
 
 ![image](https://user-images.githubusercontent.com/70103439/171621491-bd1bb5f3-684d-4595-9eff-df563b7b5767.png)
+
+
+![image](https://user-images.githubusercontent.com/70103439/171626116-b529df66-91ae-4953-b3da-a5e0b4688c9c.png)
+
+
+![image](https://user-images.githubusercontent.com/70103439/171626187-34cbe7dd-f7c2-4f02-8a22-ab4925466d50.png)
