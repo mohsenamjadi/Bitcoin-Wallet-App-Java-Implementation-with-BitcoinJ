@@ -1,5 +1,8 @@
-# Bitcoin-Wallet-App-Java-Implementation-with-BitcoinJ
+# Bitcoin Wallet Application
 
+This is an Implementation of a simple BTC wallet for handling transactions of another application. It uses bitcoinj that is a library for working with the Bitcoin protocol. It can maintain a wallet, send/receive transactions without needing a local copy of Bitcoin Core. Bitcoinj uses SPV mode (lightweight simplified payment verification). In this mode, only a small part of the block chain is downloaded, making bitcoinj suitable for usage on constrained devices like smartphones.
+
+for runnig the application you need to complete application.properties with your specific.
  
  ### After blockchain downloaded completely:
  
